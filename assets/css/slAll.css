@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap');
+
+.logoFont {
+    font-size: 64px;
+}
+
+.centerFont {
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.Noto {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.slRound {
+    border-radius: 1.5rem;
+}
+
+.slIcon {
+    width: 36px;
+}
+
+.slCreateHeight {
+    height: 100%;
+}
